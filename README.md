@@ -1,0 +1,2 @@
+Hey there!
+This is going to be my first *real* website for TOP (The Odin Project). Right now it's just going to be HTML, but I hope in the future to come back and add some CSS, and maybe even some JavaScript, into this website.
